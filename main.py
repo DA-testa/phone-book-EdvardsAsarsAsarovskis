@@ -1,4 +1,5 @@
 # python3
+# Edvards Asars Asarovskis 17.grupa
 
 class Query:
     def __init__(self, query):
